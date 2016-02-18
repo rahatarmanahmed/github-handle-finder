@@ -4,6 +4,8 @@ Written before I realized [charleslai](https://github.com/charleslai/github-hand
 
 Reads in names to check through standard input, and outputs the names that are available on GitHub.
 
+**Note that one API request is made per name at a time. Be nice and don't abuse the API. GitHub API rate limits will apply.**
+
 # Installation
 
 Clone this repository and run `npm install`.
