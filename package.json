@@ -4,7 +4,7 @@
   "description": "Finds github handles that are available",
   "main": "index.js",
   "dependencies": {
-    "got": "^6.1.1",
+    "got": "^7.0.0",
     "split": "^1.0.0",
     "through2": "^2.0.1"
   },
