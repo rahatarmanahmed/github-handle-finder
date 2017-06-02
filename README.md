@@ -1,5 +1,7 @@
 # github-handle-finder
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rahatarmanahmed/github-handle-finder.svg)](https://greenkeeper.io/)
+
 Written before I realized [charleslai](https://github.com/charleslai/github-handle-finder) already did it.
 
 Reads in names to check through standard input, and outputs the names that are available on GitHub.
